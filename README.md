@@ -37,3 +37,7 @@ Wikipedia contributors. (n.d.). Saturn. Wikipedia. Retrieved December 9, 2025, f
 Wikipedia contributors. (n.d.). Uranus. Wikipedia. Retrieved December 9, 2025, from https://en.wikipedia.org/wiki/Uranus
 
 Wikipedia contributors. (n.d.). Neptune. Wikipedia. Retrieved December 9, 2025, from https://en.wikipedia.org/wiki/Neptune
+
+Artificial Intelligence Transparency Declaration (AITS)                                                                                              AI for shaping.
+AI has been used to shape the initial and/or final parts of the activity. 
+AI is used for shaping parts of the activity. This includes initial outlining, concept development, prompting thinking, and/or improving structure/quality of the final output. Most of the activity is human developed or generated. AI ideas and suggestions are refined and reviewed. AI outputs are used for discrete and specific goals/outcomes.
