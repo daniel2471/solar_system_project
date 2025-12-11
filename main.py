@@ -44,9 +44,13 @@ def main():
     print("Solar System Query Tool")
     print("Ask me things like:")
     print("- Tell me everything about Saturn")
+    print("- Tell me everything about Venus")
     print("- How massive is Neptune?")
+    print("- How massive is Uranus?")
     print("- Is Mars in the list of planets?")
+    print("- Is Mercury in the list of planets?")
     print("- How many moons does Earth have?")
+    print("- How many moons does Jupiter have?")
     print("Type 'quit' to exit.\n")
 
     while True:
