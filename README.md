@@ -1,6 +1,8 @@
 Solar System Program
 
-This Python program lets a user ask questions about different planets in the solar system. Each planet is stored as an object using a custom class, which keeps track of the planet’s mass, distance from the Sun and a short list of moons. The program can answer questions such as “Tell me everything about Mars”, “How many moons does Earth have?”, or “How massive is Jupiter?” It also includes simple input validation so the program doesn’t crash when the user types something unexpected.
+This Python program lets a user ask questions about different planets in the solar system. Each planet is stored as an object using a custom class, which keeps track of the planet’s mass, distance from the Sun and a short list of moons. 
+
+The program can answer questions such as "Tell me everything about Venus", "How massive is Neptune?", "How massive is Uranus?", "Is Mars in the list of planets?", "Is Mercury in the list of planets?", "How many moons does Earth have?", "How many moons does Jupiter have?".It also includes simple input validation so the program doesn’t crash when the user types something unexpected, the user sees an "Invalid Question" message. 
 
 To run the program, open the terminal in VS Code, make sure you are inside the project folder, and type:
 
